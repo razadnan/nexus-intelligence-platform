@@ -1,0 +1,10 @@
+streamlit
+sqlalchemy
+pymysql
+pandas
+plotly
+scikit-learn
+faker
+reportlab
+openpyxl
+python-dotenv

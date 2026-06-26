@@ -1,0 +1,40 @@
+2026-06-26 09:29:43 | INFO     | seed | 🚀 Nexus Intelligence Platform — Full Setup Starting
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:43 | INFO     | seed | STEP 1 — Database Schema
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:43 | INFO     | seed | Running schema.sql ...
+2026-06-26 09:29:43 | INFO     | seed | schema.sql complete.
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:43 | INFO     | seed | STEP 2 — Master / Seed Data
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:43 | INFO     | seed | Running master_data.sql ...
+2026-06-26 09:29:43 | INFO     | seed | master_data.sql complete.
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:43 | INFO     | seed | STEP 3 — Generate Customers
+2026-06-26 09:29:43 | INFO     | seed | ==================================================
+2026-06-26 09:29:44 | INFO     | seed | ==================================================
+2026-06-26 09:29:44 | INFO     | seed | STEP 4 — Generate Products
+2026-06-26 09:29:44 | INFO     | seed | ==================================================
+2026-06-26 09:29:44 | INFO     | seed | ==================================================
+2026-06-26 09:29:44 | INFO     | seed | STEP 5 — Generate Inventory
+2026-06-26 09:29:44 | INFO     | seed | ==================================================
+2026-06-26 09:29:46 | INFO     | seed | 🚀 Nexus Intelligence Platform — Full Setup Starting
+2026-06-26 09:29:46 | INFO     | seed | ==================================================
+2026-06-26 09:29:46 | INFO     | seed | STEP 3 — Generate Customers
+2026-06-26 09:29:46 | INFO     | seed | ==================================================
+2026-06-26 09:29:47 | INFO     | seed | ==================================================
+2026-06-26 09:29:47 | INFO     | seed | STEP 4 — Generate Products
+2026-06-26 09:29:47 | INFO     | seed | ==================================================
+2026-06-26 09:29:47 | INFO     | seed | ==================================================
+2026-06-26 09:29:47 | INFO     | seed | STEP 5 — Generate Inventory
+2026-06-26 09:29:47 | INFO     | seed | ==================================================
+2026-06-26 09:29:48 | INFO     | seed | 🚀 Nexus Intelligence Platform — Full Setup Starting
+2026-06-26 09:29:48 | INFO     | seed | ==================================================
+2026-06-26 09:29:48 | INFO     | seed | STEP 7 — Build Analytics Layer
+2026-06-26 09:29:48 | INFO     | seed | ==================================================
+2026-06-26 09:29:54 | INFO     | seed | ✅ Analytics layer rebuilt successfully.
+2026-06-26 09:32:12 | INFO     | seed | 🚀 Nexus Intelligence Platform — Full Setup Starting
+2026-06-26 09:32:12 | INFO     | seed | ==================================================
+2026-06-26 09:32:12 | INFO     | seed | STEP 7 — Build Analytics Layer
+2026-06-26 09:32:12 | INFO     | seed | ==================================================
+2026-06-26 09:32:19 | INFO     | seed | ✅ Analytics layer rebuilt successfully.
